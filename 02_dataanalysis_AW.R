@@ -1,8 +1,4 @@
-# Bachelor Thesis Amelie Wöstmann
-# Title: Social Embeddedness and Participation in a Semester Abroad
-# Script for Descriptive and Regression Analysis
-
-# set the working directory to your path
+# Set the working directory to your path
 setwd(".../AW_bachelorthesis")
 getwd()
 
